@@ -1,0 +1,491 @@
+{
+  "data": [
+  {
+    "id":52954,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Add Antenna/Over Space",
+    "releaseBudget": " 8131200000 ",
+    "consumed": " -   ",
+    "releaseAvailable": " 8131200000 "
+  },
+  {
+    "id":95300,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Amort Add Antenna/O.Space",
+    "releaseBudget": " -   ",
+    "consumed": " -   ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":39404,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Amort BTS Hotel",
+    "releaseBudget": " -   ",
+    "consumed": " -   ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":81070,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Amort CDC Rent",
+    "releaseBudget": " 7089788388 ",
+    "consumed": " 7089788388 ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":57098,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Amort Combat Space",
+    "releaseBudget": " 1132604299 ",
+    "consumed": " 858530224 ",
+    "releaseAvailable": " 274074075 "
+  },
+  {
+    "id":82717,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Amort IBS and IBC",
+    "releaseBudget": " 7293788000 ",
+    "consumed": " 6754868000 ",
+    "releaseAvailable": " 538920000 "
+  },
+  {
+    "id":69970,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Amort Lampsite-Add System",
+    "releaseBudget": " 90000000 ",
+    "consumed": " 90000000 ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":77121,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Amort Landlord",
+    "releaseBudget": " 4175697805 ",
+    "consumed": " 4060697805 ",
+    "releaseAvailable": " 115000000 "
+  },
+  {
+    "id":47320,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Amort Mini CME",
+    "releaseBudget": " 11295148080 ",
+    "consumed": " 11049138080 ",
+    "releaseAvailable": " 246010000 "
+  },
+  {
+    "id":65336,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Amort Non TP National",
+    "releaseBudget": " 11772400000 ",
+    "consumed": " 11771729286 ",
+    "releaseAvailable": " 670714 "
+  },
+  {
+    "id":94196,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Amort Others CDC & Genset",
+    "releaseBudget": " 392952108 ",
+    "consumed": " 272952108 ",
+    "releaseAvailable": " 120000000 "
+  },
+  {
+    "id":2931,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Amort Overblast",
+    "releaseBudget": " 7992500000 ",
+    "consumed": " 7969605781 ",
+    "releaseAvailable": " 22894219 "
+  },
+  {
+    "id":46338,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Amort Tower Macro",
+    "releaseBudget": " 341998900000 ",
+    "consumed": " 339840582851 ",
+    "releaseAvailable": " 2158317149 "
+  },
+  {
+    "id":3036,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Amort Tower Non Macro",
+    "releaseBudget": " 4036980000 ",
+    "consumed": " 3083271562 ",
+    "releaseAvailable": " 953708438 "
+  },
+  {
+    "id":18883,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "BTS Hotel Rent",
+    "releaseBudget": " 7171766247 ",
+    "consumed": " -   ",
+    "releaseAvailable": " 7171766247 "
+  },
+  {
+    "id":34874,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "CDC Rent",
+    "releaseBudget": " 1274506669 ",
+    "consumed": " 1274506669 ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":54882,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Combat Car Main&Operation",
+    "releaseBudget": " 693395450 ",
+    "consumed": " 81577500 ",
+    "releaseAvailable": " 611817950 "
+  },
+  {
+    "id":77477,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Combat Space Rent",
+    "releaseBudget": " -   ",
+    "consumed": " -   ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":42377,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Community Issue Others",
+    "releaseBudget": " -   ",
+    "consumed": " -   ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":79755,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Dismantle/Instal CME site",
+    "releaseBudget": " -   ",
+    "consumed": " -   ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":46577,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Drivetest",
+    "releaseBudget": " -   ",
+    "consumed": " -   ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":56499,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Entertain Internal Unit",
+    "releaseBudget": " 1400001 ",
+    "consumed": " -   ",
+    "releaseAvailable": " 1400001 "
+  },
+  {
+    "id":48181,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "FMC Corr. RM Site Maint",
+    "releaseBudget": " 185999461 ",
+    "consumed": " 26000000 ",
+    "releaseAvailable": " 159999461 "
+  },
+  {
+    "id":91603,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "FMC Corrective Genset",
+    "releaseBudget": " 1365922550 ",
+    "consumed": " 1365919245 ",
+    "releaseAvailable": " 3305 "
+  },
+  {
+    "id":92633,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "FMC Fixed Backup Power",
+    "releaseBudget": " 3059883399 ",
+    "consumed": " 3059873400 ",
+    "releaseAvailable": " 9999 "
+  },
+  {
+    "id":68355,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "FMC Genset Fuel",
+    "releaseBudget": " 3377980781 ",
+    "consumed": " 3370943331 ",
+    "releaseAvailable": " 7037450 "
+  },
+  {
+    "id":55830,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "FMC Mble Backup Pwr (MBP)",
+    "releaseBudget": " 5689693807 ",
+    "consumed": " 5689693800 ",
+    "releaseAvailable": " 7 "
+  },
+  {
+    "id":35652,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "FMC Pemberdayaan Warga",
+    "releaseBudget": " 50750000 ",
+    "consumed": " 50750000 ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":15394,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "FMC Routine Genset",
+    "releaseBudget": " 120792900 ",
+    "consumed": " 112902000 ",
+    "releaseAvailable": " 7890900 "
+  },
+  {
+    "id":20003,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "FMC Routine RM Site Maint",
+    "releaseBudget": " -   ",
+    "consumed": " -   ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":84233,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "IBS and IBC Rent",
+    "releaseBudget": " 4334476335 ",
+    "consumed": " -   ",
+    "releaseAvailable": " 4334476335 "
+  },
+  {
+    "id":86270,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "In Building & Local Elect",
+    "releaseBudget": " 1987887750 ",
+    "consumed": " 478922137 ",
+    "releaseAvailable": " 1508965613 "
+  },
+  {
+    "id":67773,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Internal Meeting",
+    "releaseBudget": " 8750001 ",
+    "consumed": " 4596949 ",
+    "releaseAvailable": " 4153052 "
+  },
+  {
+    "id":29910,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "ISO & Sertification",
+    "releaseBudget": " -   ",
+    "consumed": " -   ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":10539,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Lampsite-Add System",
+    "releaseBudget": " 3175707200 ",
+    "consumed": " -   ",
+    "releaseAvailable": " 3175707200 "
+  },
+  {
+    "id":44043,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "MCP Rent",
+    "releaseBudget": " 36669833753 ",
+    "consumed": " -   ",
+    "releaseAvailable": " 36669833753 "
+  },
+  {
+    "id":93581,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "MCP Rent Amortization",
+    "releaseBudget": " 5455800000 ",
+    "consumed": " 5455800000 ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":40111,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Moving CGL(Lightning)",
+    "releaseBudget": " -   ",
+    "consumed": " -   ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":88606,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Netw Mgnt Transport",
+    "releaseBudget": " -   ",
+    "consumed": " -   ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":43698,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Network Support Activity",
+    "releaseBudget": " 48600000 ",
+    "consumed": " 48600000 ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":25627,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Non FMC Corr. Site Maint.",
+    "releaseBudget": " 20520000 ",
+    "consumed": " 20520000 ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":40640,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Non FMC Fuel",
+    "releaseBudget": " 292300500 ",
+    "consumed": " 3296000 ",
+    "releaseAvailable": " 289004500 "
+  },
+  {
+    "id":33528,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Non TP National Rent",
+    "releaseBudget": " 10732400000 ",
+    "consumed": " -   ",
+    "releaseAvailable": " 10732400000 "
+  },
+  {
+    "id":11531,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Other Pwr Corr. non FMC",
+    "releaseBudget": " 365374000 ",
+    "consumed": " -   ",
+    "releaseAvailable": " 365374000 "
+  },
+  {
+    "id":22183,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Outsource-FMC TechSupport",
+    "releaseBudget": " 3444520851 ",
+    "consumed": " 3315566991 ",
+    "releaseAvailable": " 128953860 "
+  },
+  {
+    "id":76217,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Outsource-Network Mgnt",
+    "releaseBudget": " 3450697908 ",
+    "consumed": " 1982658512 ",
+    "releaseAvailable": " 1468039396 "
+  },
+  {
+    "id":8171,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "PBB Site",
+    "releaseBudget": " -   ",
+    "consumed": " -   ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":72099,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "PLN Centralized Area",
+    "releaseBudget": " 127747429001 ",
+    "consumed": " 43987899675 ",
+    "releaseAvailable": " 83759529326 "
+  },
+  {
+    "id":26759,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "PLN Multiguna",
+    "releaseBudget": " 28425132 ",
+    "consumed": " 28425132 ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":1576,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "PLN TP Centralized",
+    "releaseBudget": " 115923080532 ",
+    "consumed": " 47875392200 ",
+    "releaseAvailable": " 68047688332 "
+  },
+  {
+    "id":66678,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Pow-AC-B-OthCap-Mod",
+    "releaseBudget": " 565958398 ",
+    "consumed": " 565958398 ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":49908,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "RAN-Re-eng-B-4G Cvg New",
+    "releaseBudget": " 627087200 ",
+    "consumed": " 627087200 ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":45961,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Relocation Power Equip.",
+    "releaseBudget": " 22894164 ",
+    "consumed": " 22894164 ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":25289,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "RM Radio Optimization",
+    "releaseBudget": " 427261700 ",
+    "consumed": " -   ",
+    "releaseAvailable": " 427261700 "
+  },
+  {
+    "id":29671,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Security Deposit",
+    "releaseBudget": " -   ",
+    "consumed": " -   ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":81415,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "SKRD & RPM",
+    "releaseBudget": " 389923900 ",
+    "consumed": " 258591000 ",
+    "releaseAvailable": " 131332900 "
+  },
+  {
+    "id":7645,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Ticket & Accomodation",
+    "releaseBudget": " 95429805 ",
+    "consumed": " 41979722 ",
+    "releaseAvailable": " 53450083 "
+  },
+  {
+    "id":20495,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Tower Macro Rent",
+    "releaseBudget": " 1538333321 ",
+    "consumed": " -   ",
+    "releaseAvailable": " 1538333321 "
+  },
+  {
+    "id":91354,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "Tower Non Macro Rent",
+    "releaseBudget": " 617910000 ",
+    "consumed": " -   ",
+    "releaseAvailable": " 617910000 "
+  },
+  {
+    "id":3798,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "TTC Building Management",
+    "releaseBudget": " -   ",
+    "consumed": " -   ",
+    "releaseAvailable": " -   "
+  },
+  {
+    "id":61897,
+    "division": "Network Operation and Quality Management Sulawesi Division",
+    "functionalAreaDesc": "UHPD Domestic Travel",
+    "releaseBudget": " 39969999 ",
+    "consumed": " -   ",
+    "releaseAvailable": " 39969999 "
+  }]
+}
